@@ -1,8 +1,8 @@
 <center>
 
-## THIS PROJECT WAS MOVED
+  <h2>THIS PROJECT WAS MOVED</h2> 
 
-<img scr="github/truck.png" alt="truck" />
+  <img alt="home" src="github/truck.png">
 
 new location: [Finance List](https://github.com/VictorGabrielMS/finance_list)
 
